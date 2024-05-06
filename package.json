@@ -146,5 +146,8 @@
     "type": "components",
     "jsSrcsDir": "src"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.1.1",
+  "resolutions": {
+    "react": "portal:/Users/haibui/VSCodeProjects/phaver-test/node_modules/react"
+  }
 }
